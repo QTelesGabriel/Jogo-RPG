@@ -1,0 +1,23 @@
+# Arquivos de build
+*.o
+*.out
+*.exe
+
+# .vscode
+.vscode
+
+# Arquivo do executável final
+jogo
+
+# Arquivos temporários de sistema
+*~
+*.swp
+.DS_Store
+
+# Diretórios comuns de build
+/build/
+/bin/
+/obj/
+
+# Arquivos de log ou debug
+*.log
