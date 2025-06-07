@@ -1,5 +1,5 @@
 # Arquivos de build
-*.o
+jogo.o
 *.out
 *.exe
 
