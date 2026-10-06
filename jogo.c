@@ -476,7 +476,7 @@ void mapas_medios(char mapa_2[][31], int escolha_mapa) {
         strcpy(mapa_2[20],"# #####       ## #############");
         strcpy(mapa_2[21],"# ##          ##            ##");
         strcpy(mapa_2[22],"#V##  #####  ##### ######## ##");
-        strcpy(mapa_2[23],"####  #####  ######   ##    ##");
+        strcpy(mapa_2[23],"####  #####  #####    ##    ##");
         strcpy(mapa_2[24],"###     ###  #######  ## H  ##");
         strcpy(mapa_2[25],"#    ##  ### ##       ########");
         strcpy(mapa_2[26],"###  ##   ##P######    #######");
